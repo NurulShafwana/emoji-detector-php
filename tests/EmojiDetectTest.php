@@ -297,3 +297,4 @@ class EmojiDetectTest extends \PHPUnit\Framework\TestCase {
   }
 
 }
+testemoji :bubble_tea: :woman_fairy:
